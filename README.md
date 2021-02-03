@@ -4,7 +4,7 @@
 
 <p alighn="center">
   
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=InersIn&repo=pentest)](https://github.com/InersIn/pentest)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=InersIn&repo=Penetration-Testing)](https://github.com/InersIn/Penetration-Testing)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=InersIn&repo=certificate)](https://github.com/InersIn/certificate)
 
 </p>
